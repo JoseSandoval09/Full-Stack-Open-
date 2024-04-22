@@ -1,4 +1,3 @@
-
 ##SPA sending note diagram
 
 
